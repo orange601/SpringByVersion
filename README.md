@@ -1,2 +1,8 @@
-# SpringByVersion
-스프링 버젼별 정보
+# 4.3 ~
+
+### 새로운 어노테이션 
+- @PostMapping
+- @GetMapping
+- @PutMapping
+- @DeleteMapping
+- @PatchMapping
